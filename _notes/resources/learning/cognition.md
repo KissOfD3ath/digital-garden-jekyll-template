@@ -1,4 +1,4 @@
---- title: cognition ---
+[[--- title: cognition ---]]
 
 ## Optimal Learning Closure
 
@@ -47,7 +47,7 @@ Define the ideal state to learn.
 -   [Seedea:Research/PhylogeneticFlowProgramming![](https://fabien.benetou.fr/innovativ.it/www/HistoricalArchives/Seedea/favicon.ico)](https://fabien.benetou.fr/innovativ.it/www/HistoricalArchives/Seedea/Research/PhylogeneticFlowProgramming)
 -   [TurtlesTermitesAndTrafficJams](https://fabien.benetou.fr/ReadingNotes/TurtlesTermitesAndTrafficJams) and [Wikipedia:Constructionism (learning theory)![](https://en.wikipedia.org/favicon.ico)](https://en.wikipedia.org/wiki/Constructionism%20(learning%20theory))
 -   discussion on "pocket world" with Paola at the 16/09/2010
-----------------------------------------------------------------
+===========================================================
 ## Learning New Language
 
 ### Principle
@@ -89,7 +89,8 @@ See [Repository:?p=.git;a=blob;f=shell_scripts/)logs_own_vocabulary![](https://f
 ### Inspiration
 
 -   discovering [Mercurial](https://fabien.benetou.fr/Tools/Mercurial) and accumulating more and more command names
-----------------------------------------------------------------
+==========================================================
+
 ### Optimizable model per page
 
 #### Principle
@@ -124,7 +125,8 @@ page about my plants
 -   proposed Pre-reading model and Post-reading model in [Template](https://fabien.benetou.fr/ReadingNotes/Template) but nearly never applied it
     -   months after added "consider a set of rules" too, same problem
 -   consider iPython
-----------------------------------------------------------------
+===========================================================
+
 ### Thinking Is Technical
 
 Thinking is idealized while, like computing, it is a very physical process. Not a simple one but still physical and thus that can be improve through processes technical too.
@@ -149,7 +151,8 @@ Even through social means (cf [egyptian scribs](http://www.canalacademie.com/ida
 #### To do
 
 1.  add notes from my notebooks
-----------------------------------------------------------------
+===========================================================
+
 ### Goal, focus, attention
 
 the absence of goal increases flexibility yes but it also increases uncertainty (which is very stressful) and provide no focus point (hard to leverage)
@@ -202,7 +205,8 @@ In the quote "Give me a lever long enough and a fulcrum on which to place it, an
 -   “We have not yet found something that [multitaskers] are definitely better at than people who don't multitask.”
     -   [Clifford Nass interview](http://www.pbs.org/wgbh/pages/frontline/digitalnation/interviews/nass.html), FRONTLINE: Digital Nation, PBS 2009
 -   [Multitasking at M.I.T.](http://www.pbs.org/wgbh/pages/frontline/digitalnation/blog/2009/12/multitasking-at-mit.html), FRONTLINE: Digital Nation, PBS 2009
-----------------------------------------------------------------
+===========================================================
+
 ### Reading Techniques
 
 Import and structure
@@ -239,7 +243,8 @@ Import and structure
 
 -   [Wikipedia:Reading (process)![](https://en.wikipedia.org/favicon.ico)](https://en.wikipedia.org/wiki/Reading%20(process))
 -   [Environnement numérique de lecture : instrumentation de l'activité de lecture savante sur support numérique](http://tel.archives-ouvertes.fr/tel-00347843/en/) by Erik Gebers, UTC 2008
-----------------------------------------------------------------
+===========================================================
+
 ### WikiBrain Mapping
 
 Map this actively used [wiki instance](https://fabien.benetou.fr/) over a visual [brain imaging model](https://fabien.benetou.fr/Cookbook/Cognition#brainimaging_resources).
@@ -362,7 +367,8 @@ Cf discussion with Klevre "Well I'd like something that organizes it the same wa
     -   [Wikipedia:On Intelligence![](https://en.wikipedia.org/favicon.ico)](https://en.wikipedia.org/wiki/On%20Intelligence): How a New Understanding of the Brain will Lead to the Creation of Truly Intelligent Machines
 -   [Human Brain Mapping](http://onlinelibrary.wiley.com/journal/10.1002/ISSN1097-0193/issues), Wiley
     -   first issued in 1993
-----------------------------------------------------------------
+===========================================================
+
 ### Causal Reading Tree
 
 #### Problem

@@ -1,4 +1,4 @@
---- title: programming ---
+[[--- title: programming ---]]
 
 0 configuration first tutorial
 
