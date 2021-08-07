@@ -1,3 +1,5 @@
+--- title: cognition ---
+
 ## Optimal Learning Closure
 
 ### Principle
