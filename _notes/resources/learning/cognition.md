@@ -1,4 +1,4 @@
-[[--- title: cognition ---]]
+[[cognition]]
 
 ## Optimal Learning Closure
 
